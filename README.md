@@ -35,9 +35,9 @@ Clean code & system design basics
 
 📫 Get in Touch
 
-GitHub: @yourusername
+GitHub: peacekuria
 
-Email: your-email@example.com
+Email: ephraimekuria@gmail.com
 
 LinkedIn: (optional)
 
